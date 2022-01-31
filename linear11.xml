@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flow xmlns="urn:opendaylight:flow:inventory">
+	<priority>200</priority>
+	<flow-name>0</flow-name>
+	<id>linear11</id>
+	<table_id>0</table_id>
+	<match>
+		<in-port>1</in-port>
+	</match>
+	<instructions>
+		<instruction>
+		<order>0</order>
+		<apply-actions>
+			<action>
+				<order>0</order>
+				<output-action>
+					<output-node-connector>3</output-node-connector>
+				</output-action>
+			</action>
+		</apply-actions>
+		</instruction>
+	</instructions>
+</flow>
