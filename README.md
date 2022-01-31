@@ -21,3 +21,9 @@ Mininet을 이용한 SDN Network에서의 네트워크 라우팅 관리 시스�
   + curl
 + **운영체제**
   + Linux Ubuntu 20.04.2 LTS
+
+# 사용한 SDL Controller
+
+Opendaylight Controller ( release version : Oxygen )
+
+
