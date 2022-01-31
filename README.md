@@ -12,6 +12,10 @@ Mininet을 이용한 SDN Network에서의 네트워크 라우팅 관리 시스�
 SDN Network 상에서 GUI를 통해 사용자가 지정된 버튼을 누르면<br> 
 버튼별로 해당하는 Flow Rule이 지정되어 간편하게 네트워크 라우팅 관리 가능
 
+## Network Topology
+
+![topology](https://user-images.githubusercontent.com/73628812/151742860-6b2ab121-2aa6-4c6b-9b59-6a00a4b7bf94.PNG)
+
 ## Scenario
 
 ![scenario](https://user-images.githubusercontent.com/73628812/151742482-e387168c-4e0a-4d56-a7c1-2b6f878ba8ec.PNG)
