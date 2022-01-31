@@ -14,14 +14,7 @@ SDN Network 상에서 GUI를 통해 사용자가 지정된 버튼을 누르면<b
 
 ## Scenario
 
-1. Mininet으로 SDN Network 생성
-2. SDN 제어기(Opendalight) 연결해 Network Control
-3. Network topology 구성
-4. h1 ~ h4 ping test
-5. Flow Rule(S2 & S3) 지정
-6. Flow Rule 삭제
-7. Flow Rule(S1 & S2 & S3) 지정
-8. Flow Rule 삭제
+
 
 ## 활용 기술
 + **언어**
