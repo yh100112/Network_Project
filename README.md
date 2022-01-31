@@ -12,6 +12,17 @@ Mininet을 이용한 SDN Network에서의 네트워크 라우팅 관리 시스�
 SDN Network 상에서 GUI를 통해 사용자가 지정된 버튼을 누르면<br> 
 버튼별로 해당하는 Flow Rule이 지정되어 간편하게 네트워크 라우팅 관리 가능
 
+## Scenario
+
+1. Mininet으로 SDN Network 생성
+2. SDN 제어기(Opendalight) 연결해 Network Control
+3. Network topology 구성
+4. h1 ~ h4 ping test
+5. Flow Rule(S2 & S3) 지정
+6. Flow Rule 삭제
+7. Flow Rule(S1 & S2 & S3) 지정
+8. Flow Rule 삭제
+
 ## 활용 기술
 + **언어**
   + python
